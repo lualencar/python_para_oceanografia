@@ -1,4 +1,4 @@
-# Curso Analise de Dados Oceanográficos em Python 
+# Curso Análise de Dados Oceanográficos em Python 
 Minicurso de Análise de Dados Oceanográficos utilizando Python.
 
 Instrutora: Lucia Alencar| Oceanógrafa e estudante de Ciência de dados.
